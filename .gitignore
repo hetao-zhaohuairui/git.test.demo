@@ -1,0 +1,8 @@
+*.class
+*.iml
+out
+target
+classpath
+.git
+.idea
+.DS_Store
